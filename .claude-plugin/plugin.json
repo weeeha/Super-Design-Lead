@@ -1,0 +1,24 @@
+{
+  "name": "SuperLead",
+  "description": "Methodology and skills for design managers: 1:1s, career conversations, feedback, hiring, coaching, and relationship tracking via Obsidian or git-backed markdown",
+  "version": "0.1.0",
+  "author": {
+    "name": "Nick Vyhouski",
+    "email": "mvyhouski@gmail.com"
+  },
+  "homepage": "https://github.com/weeeha/Super-Design-Lead",
+  "repository": "https://github.com/weeeha/Super-Design-Lead",
+  "license": "MIT",
+  "keywords": [
+    "leadership",
+    "management",
+    "design-management",
+    "1on1",
+    "career-development",
+    "coaching",
+    "hiring",
+    "skills",
+    "methodology",
+    "obsidian"
+  ]
+}
