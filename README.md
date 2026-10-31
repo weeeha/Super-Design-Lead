@@ -1,5 +1,13 @@
 # SuperLead
 
+**Problem.** The hard parts of design management are disciplinary. Managers skip prep for routine 1:1s, hold feedback back for weeks and offer "next title" as the only career path.
+
+**Idea.** Skills that enforce the discipline, backed by a markdown vault (Obsidian or a private repo) so each 1:1 starts from what the earlier ones recorded.
+
+**Built.** A Claude Code plugin (v0.1) with 11 skills (3 rigid-spine, 5 workflow, 1 utility, 2 meta) that read and write the vault. It is MIT licensed and the companion to SuperDesign. 3 commits on 2 days, May 17 to Oct 20, 2026.
+
+**Decision.** Career conversations must propose three or more growth paths and never just the next title, because one option is a decision in disguise.
+
 A design-leadership methodology plugin for Claude Code. Skills for design managers — 1:1s, career conversations, feedback, hiring, coaching — backed by a file-based relationship store you maintain in Obsidian or a private GitHub repo.
 
 **Status: v0.1.** 11 skills. Companion to [SuperDesign](https://github.com/weeeha/Super-Design-Skills).
